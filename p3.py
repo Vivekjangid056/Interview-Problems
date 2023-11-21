@@ -1,3 +1,5 @@
+# number is prime or not
+
 def prime(n):
     if n == 0 or n== 1:
         return "number is prime"
